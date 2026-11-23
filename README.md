@@ -10,8 +10,8 @@ The inspiration for this program was a more abstracted version of [rss-parsers](
 ## Installation
 1. `git clone https://github.com/hussein-esmail7/nodiffy`
 2. `cd nodiffy `
-3. Create your own `urls.yaml` file (see [Creating the `urls.yaml` file](#Creating-the-urls.yaml-file)) that will store the URLs you want checked
-4. Create your own `secrets.yaml` file (see [Creating the `secrets.yaml` file](#Creating-the-secrets.yaml-file)) that will store the email credentials this program sends emails from
+3. Create your own `urls.yaml` file (see [Creating the `urls.yaml` file](#creating-the-urlsyaml-file)) that will store the URLs you want checked
+4. Create your own `secrets.yaml` file (see [Creating the `secrets.yaml` file](#creating-the-secretsyaml-file)) that will store the email credentials this program sends emails from
 
 
 ### Requirements
