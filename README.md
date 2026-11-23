@@ -78,7 +78,8 @@ The way the program is formatted, it requires an App Password from a Gmail email
     - Treat the App Password like a secret — don’t share it.
     - You can revoke it anytime in your Google account if it’s no longer needed.
 
-```EMAIL_ADDRESS_FROM: "SENDER@gmail.com"
+```
+EMAIL_ADDRESS_FROM: "SENDER@gmail.com"
 EMAIL_APPEARANCE: "What You Want the FROM Name to Show As"
 EMAIL_ADDRESS_FROM_PASSWORD: "PASSWORD"
 ```
