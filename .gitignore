@@ -8,3 +8,6 @@ secrets.yaml
 
 # Stores which URLs to check and which email addresses to send those email notifications to
 urls.yaml
+
+# Snapshots folder of sites that are checked (local only)
+snapshots/
