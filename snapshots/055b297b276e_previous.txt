@@ -1,0 +1,4 @@
+### Welcome!
+
+Hello there, fellow browser. My name is Hussein, and this
+is my personal website. I write things that are on my mind [here](/articles/), and I also do other cool things like [show a Discord bot I made that converts messages to RSS feeds](/articles/discordrss-docs.html). Please feel free to poke around! You can even [send me an email to say hi here](mailto:HusseinEsmailContact@gmail.com)!

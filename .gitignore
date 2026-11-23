@@ -1,0 +1,9 @@
+
+# VS Code Workspace
+nodiffy.code-workspace
+
+# Stores email info the program uses to send email notifications
+secrets.yaml
+
+# Stores which URLs to check and which email addresses to send those email notifications to
+urls.yaml
