@@ -1,6 +1,7 @@
 
 # VS Code Workspace
 nodiffy.code-workspace
+.vscode
 
 # Stores email info the program uses to send email notifications
 secrets.yaml
